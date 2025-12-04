@@ -5,4 +5,4 @@ With that, I embarked on building a mood-driven food recommendation system, blen
 
 The below is a retro 1980s-themed web app that uses AI to gamify your snack choices. By analyzing your mood, dietary preference, and cuisine choice, it generates a simple, personalized snack recipe accompanied by a motivational "Power-Up" message. The experience features an immersive arcade interface with neon visuals, playful pixel-art animations (like a face drinking soda), and custom-generated 3-panel pixel art instruction strips for every dish.
 
-https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221dbYBmhmGTLDjaeXhYMey-9rxzDu2hM_v%22%5D,%22action%22:%22open%22,%22userId%22:%22110268052765253552954%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
